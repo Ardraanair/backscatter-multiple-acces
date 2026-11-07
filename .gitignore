@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Generated simulation outputs (commit selected final figures/data explicitly)
+*.tmp
+*.bak
+
+# KiCad temporary/backup files
+*-backups/
+*.lck
+*.kicad_prl
+
+# CST temporary/lock files
+*.lock
+*.lck
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
